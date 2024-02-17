@@ -100,13 +100,14 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-    background-color: #34C759;
+    background-color: #1caa3f;
 }
 
 table {
     width: 100%;
     margin: 30px 0;
     border: none;
+    border-collapse: collapse;
 }
 
 caption {
@@ -120,6 +121,31 @@ caption, th {
 tbody> tr:nth-child(odd) {
     background-color: #F2F2F7;
 }
+
+tr {
+    height: 30px;
+}
+th,tr,td{
+    text-align: center;
+    border: none;
+}
+
+caption, th,td {
+    padding: 15px;
+}
+
+.bota-tabela {
+    background-color: var(--colorSecondary);
+    color: white;
+}
+
+.bota-tabela:hover {
+    background-color: #f91509;
+}
+
+
+
+
 
 
 
