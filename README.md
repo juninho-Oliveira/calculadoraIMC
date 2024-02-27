@@ -38,4 +38,6 @@ Projeto desenvolvido durante as aulas no SENAI, uma Calculadora de Índice de Ma
 
 4. A tabela abaixo mostrará o histórico de usuários cadastrados.
 
+----
 
+<img src="tela.jpg" style=" width: 70%">
